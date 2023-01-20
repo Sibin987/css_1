@@ -1,0 +1,7 @@
+universal selector
+nested selector
+external selector
+padding margin ke saath khelna hai
+font atributes explore karna hai
+emphasis and importance 
+how to add external fonts
